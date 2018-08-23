@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PAA-MERGE-SORT-FILES.iml" filepath="$PROJECT_DIR$/PAA-MERGE-SORT-FILES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaaSortFiles.iml" filepath="$PROJECT_DIR$/PaaSortFiles.iml" />
     </modules>
   </component>
 </project>
